@@ -13,7 +13,7 @@ A simple, interactive web application that allows users to change the background
 
 ## Demo
 
-Check out the live demo (https://your-netlify-or-github-pages-url](https://color-ux.netlify.app/)).
+Check out the live demo (https://color-ux.netlify.app/)).
 
 ## How It Works
 
