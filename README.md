@@ -1,7 +1,7 @@
 # Color-UX
 # Color Switcher
 
-A simple, interactive web application that allows users to change the background color of the page by clicking buttons for predefined colors or generating random colors. The app also includes a smooth canvas-based particle animation in the background for added visual appeal.
+A simple, interactive web application that allows users to change the background color of the page by clicking buttons for predefined colors or generating random colors. The app also includes a smooth canvas-based particle animation in the background for added visual appeal. Built by Xavier Leon; email- xavier3435@icloud.com~LinkedIn profile-www.linkedin.com/in/xavier-leon-78214331a
 
 ## Features
 
@@ -37,5 +37,4 @@ ColorSwitcher/ ├── index.html # Main HTML file ├── script.js # JavaS
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/lateralmonster!/color-switcher.git
-
 
